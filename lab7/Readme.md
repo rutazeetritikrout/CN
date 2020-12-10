@@ -1,2 +1,2 @@
 
-lab 7
+Distance Vector Algorithm
